@@ -1,0 +1,13 @@
+1. Install javafx SDK
+2. Add javafx/lib path in Run.bat
+
+
+*Requires javafx and JDK
+
+Environment variables :
+JAVA_HOME = path to java \
+PATH_TO_FX = path to javafx\lib
+
+
+
+
